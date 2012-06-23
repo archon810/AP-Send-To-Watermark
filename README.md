@@ -15,4 +15,5 @@ Run <a href="https://github.com/RonAmadeo/AP-Send-To-Watermark/raw/master/setup/
 Right click a picture, hover over "Send to", and hit "AP Watermark." It supports multiple files too.
 
 ##Example
+Before & After:
 <p align="center"><img src="https://github.com/RonAmadeo/AP-Send-To-Watermark/raw/master/resources/readme/example.png" width="50%" /><img src="https://github.com/RonAmadeo/AP-Send-To-Watermark/raw/master/resources/readme/wm_example.png" width="50%" /></p>
