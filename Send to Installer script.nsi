@@ -11,7 +11,7 @@
 
 ; MUI Settings
 !define MUI_ABORTWARNING
-!define MUI_ICON "C:\Users\Owner\Google Drive\Android Police\new-watermark\Ron's Send to Watermark\Source\AP icon.ico"
+!define MUI_ICON "AP icon.ico"
 !define MUI_UNICON "${NSISDIR}\Contrib\Graphics\Icons\modern-uninstall.ico"
 
 ; Welcome page
