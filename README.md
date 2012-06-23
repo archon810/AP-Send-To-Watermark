@@ -15,4 +15,4 @@ Run \setup\Setup.exe.
 Right click a picture, hover over "Send to", and hit "AP Watermark." It supports multiple files too.
 
 ##Example
-<p align="center"><img src="https://github.com/RonAmadeo/resources/readme/AP-Send-To-Watermark/raw/master/resources/readme/example.png"/><img src="https://github.com/RonAmadeo/resources/readme/AP-Send-To-Watermark/raw/master/resources/readme/wm_example.png"/></p>
+<p align="center"><img src="https://github.com/RonAmadeo/AP-Send-To-Watermark/raw/master/resources/readme/example.png"/><img src="https://github.com/RonAmadeo/AP-Send-To-Watermark/raw/master/resources/readme/wm_example.png"/></p>
