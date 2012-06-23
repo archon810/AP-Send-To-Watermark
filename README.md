@@ -9,7 +9,7 @@ This is an image manipulation tool for <a href="http://androidpolice.com">Androi
 This will create a copy of the image in the current folder, prefix "wm_" to the file name, set the max width to 1680px, compress it a bit, and add the AP watermark. Your original image will not be touched.
 
 ##Installation
-Run \setup\Setup.exe.
+Run <a href="https://github.com/RonAmadeo/AP-Send-To-Watermark/blob/master/setup/Setup.exe">Setup.exe</a>.
 
 ##Basic Usage
 Right click a picture, hover over "Send to", and hit "AP Watermark." It supports multiple files too.
