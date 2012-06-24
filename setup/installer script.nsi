@@ -40,10 +40,10 @@ ShowUnInstDetails show
 Section "MainSection" SEC01
   SetOutPath "$INSTDIR"
   SetOverwrite ifnewer
-  File "..\bin\AP_Watermark.bat"
-  File "..\bin\ImageMagick\convert.exe"
-  File "..\bin\ImageMagick\vcomp100.dll"
-  File "..\bin\ImageMagick\composite.exe"
+  File "..\AP_Watermark.bat"
+  File "..\ImageMagick\convert.exe"
+  File "..\ImageMagick\vcomp100.dll"
+  File "..\ImageMagick\composite.exe"
   File "..\resources\AP icon.ico"
   File "..\resources\AP_Vid_Watermark.png"
   CreateDirectory "$SENDTO"
