@@ -51,8 +51,8 @@ Section "MainSection" SEC01
 SectionEnd
 
 Section -AdditionalIcons
-  CreateDirectory "$SMPROGRAMS\Android Police Send To Watermark"
-  CreateShortCut "$SMPROGRAMS\Android Police Send To Watermark\Uninstall.lnk" "$INSTDIR\uninst.exe"
+  CreateDirectory "$SMPROGRAMS\Android Police\Send To Watermark"
+  CreateShortCut "$SMPROGRAMS\Android Police\Send To Watermark\Uninstall.lnk" "$INSTDIR\uninst.exe"
 SectionEnd
 
 Section -Post
